@@ -25,6 +25,8 @@ Inspiration from: http://www.raspberrypi.org/forums/viewtopic.php?f=66&t=79151&p
 
 Usage:
 
-Install exim4 using the following guide
+Install exim4 using the following guide:
+
+http://www.sbprojects.com/projects/raspberrypi/exim4.php
 
 Make the script executable and run whenever you need the network info.
